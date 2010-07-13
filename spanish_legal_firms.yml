@@ -1,5 +1,5 @@
 a-abogados-ador-s-l:
-  name: "A. abogados ador, s.l."
+  name: "Abogados Ador S.L."
   city: "Sevilla"
   state: "Sevilla"
   postal code: "41018"
@@ -12,7 +12,7 @@ a-abogados-ador-s-l:
   description: "Despacho multidisciplinar, con un completo equipo técnico y sobre todo humano, de profesionales especializados con el ánimo de prestar un servicio a todos lo ciudadanos por medio del consejo y la defensa de los derechos e intereses tanto a nivel público como privado."
   languages: ["Español", "Inglés"]
 a-c-a-juridic-gestio:
-  name: "A.c.a. jurídic gestió"
+  name: "A.C.A. Gestión"
   city: "Barcelona"
   state: "Barcelona"
   postal code: "08034"
@@ -51,7 +51,7 @@ abogada-idoia-ikardo-enparan:
   description: "Cada individuo es fruto de sus experiencias, con sus problemáticas personales específicas. Por este motivo, Bidenova Gabinete Jurídico, con su trato humano, tiene el firme propósito de que sus usuarios se sientan cómodos y respaldados a lo largo de todo su encargo legal."
   languages: ["Español", "Euskera", "Inglés", "Francés"]
 abogada-m-dolores-baquero:
-  name: "Abogada mª dolores baquero"
+  name: "Abogada Maria Dolores Baquero"
   city: "Sevilla"
   state: "Sevilla"
   postal code: "41018"
@@ -64,7 +64,7 @@ abogada-m-dolores-baquero:
   description: "Actualmente como miembro del SAOJI (Servicio Andaluz de Orientación Jurídica al Inmigrante) y de la AEAF (Asociación Española de Abogados de Familia) y trabajando desde 1991, el bufete Baquero Garcés ofrece sus servicios jurídicos en distintas áreas de trabajo como son el Derecho Civil, Penal, Administrativo, Extranjería, Patentes/Marcas, Escolarización y Derecho del seguro; teniendo siempre con el cliente un trato directo, sincero y personalizado ya que sabemos que mantenerle informado del trámite de sus asuntos de forma regular es para Vd. importante y para nosotros una obligación, habiéndolo conseguido durante estos años, dándole a cada proceso la mayor transparencia, dedicación y profesionalidad con la que contamos."
   languages: ["Español"]
 abogada-noelia-rebon:
-  name: "Abogada noelia rebon"
+  name: "Abogada Noelia Rebon"
   city: "Barcelona"
   state: "Barcelona"
   postal code: "08008"
@@ -77,7 +77,7 @@ abogada-noelia-rebon:
   description: "FAMILIA > Demandas de incapacitación, tutela y curatela, sucesiones o herencias<br>MATRIMONIAL > Asesoramiento y gestión de todo tipo de asuntos relacionados con el área de familia: separaciones y divorcios (mutuo acuerdo o contencioso), parejas de hecho, capitulaciones matrimoniales, medidas provisionales, guarda y custodia de hijos, reclamaciones de pensiones de alimentos, filiaciones y adopciones<br>CIVIL > Reclamaciones de cantidad, procedimientos de desahucio, ejecuciones de sentencias..etc."
   languages: ["Español", "Catalán", "Inglés", "Italiano"]
 abogada-revuelta:
-  name: "Abogada revuelta"
+  name: "Abogada Revuelta"
   city: "Barcelona"
   state: "Barcelona"
   postal code: "08005"
@@ -90,7 +90,7 @@ abogada-revuelta:
   description: "Licenciada en Derecho por la Universidad de Barcelona (2006).<br>Colegiada nº 31800 del Ilustre Colegio de Abogados de Barcelona.<br>Licenciada en Económicas (1987).<br>Colegiada nº 4489 del Colegio Oficial de Economistas de Cataluña.<br>Miembro de la Asociación Temas de Mujer.<br>Miembro del Registro de Economistas, Asesores y Fiscales (nº 5476)."
   languages: ["Español", "Catalán", "Inglés", "Francés", "Italiano"]
 abogado-marta-ugarte-paul:
-  name: "Ugarte. abogado"
+  name: "Ugarte Abogado"
   city: "Toledo"
   state: "Toledo"
   postal code: "45007"
@@ -103,7 +103,7 @@ abogado-marta-ugarte-paul:
   description: "Asesoramiento y defensa legal judicial y extrajudicial. Particulares y empresas."
   languages: ["Español", "Inglés", "Alemán"]
 abogados-advocats:
-  name: "Abogados advocats"
+  name: "Abogados Sabadell"
   city: "Sabadell"
   state: "Barcelona"
   postal code: "08202"
@@ -116,7 +116,7 @@ abogados-advocats:
   description: "Nuestro bufete de abogados con despacho central en Sabadell, ofrece servicios de asesoría y representación jurídica en distintos ámbitos además de especializarnos en divorcios y accidentes de tráfico. Conozca nuestro bufete así como sus áreas de especialización."
   languages: ["Español", "Catalán", "Alemán"]
 abogados-bufete-chamizo-galavis:
-  name: "Abogados bufete chamizo galavis"
+  name: "Bufete Chamizo Galavis"
   city: "Sevilla"
   state: "Sevilla"
   postal code: "41008"
@@ -129,7 +129,7 @@ abogados-bufete-chamizo-galavis:
   description: "El Despacho está formado por los Abogados: Dª Mª Jesús Chamizo Galavís, D. José Afanador Bellido, D. Marco Antonio Ruiz Jarana"
   languages: ["Español"]
 abogados-bufete-penalva:
-  name: "Abogados bufete penalva"
+  name: "Bufete Penalva"
   city: "Alicante"
   state: "Alicante"
   postal code: "03013"
@@ -140,7 +140,7 @@ abogados-bufete-penalva:
   practice areas: ["Civil", "Laboral", "Mercantil"]
   description: "Nuestros servicios se prestarán con Lealtad, Confidencialidad, Profesionalidad, Dedicación"
 abogados-canales-asociados:
-  name: "Abogados canales & asociados"
+  name: "Canales & asociados"
   city: "Madrid"
   state: "Madrid"
   postal code: "28001"
@@ -153,7 +153,7 @@ abogados-canales-asociados:
   description: "Canales & Asociados es un bufete dinámico y moderno, que cumple con todas las exigencias del mundo jurídico actual y que se ha desarrollado como una firma de servicios legales profesionales de prestigio repartidos entre su sede central de Madrid, y su delegación de Marbella."
   languages: ["Español", "Inglés", "Francés"]
 abogados-carmen-garcia:
-  name: "Abogados carmen garcia"
+  name: "Abogados Carmen García"
   city: "Madrid"
   state: "Madrid"
   postal code: "28009"
@@ -166,7 +166,7 @@ abogados-carmen-garcia:
   description: "ABOGADOS CARMEN GARCIA, es un despacho de abogados multidisciplinar con sede en Madrid, fundado en 1995 por  Dª CARMEN GARCIA GARRIDO, abogada del Ilustre Colegio de Abogados de Madrid y de Alcalá de Henares."
   languages: ["Español", "Francés", "Italiano"]
 abogados-casanova:
-  name: "Abogados casanova. herencias exclusivamente."
+  name: "Abogados Casanova"
   city: "Barcelona"
   state: "Barcelona"
   postal code: "08009"
@@ -204,7 +204,7 @@ abogados-ferran-gonzalez-asociados:
   description: "El despacho de abogados Ferran González & Asociados es una firma jurídica valenciana que tiene por objetivo la defensa de sus intereses, desde una perspectiva práctica, ágil y contundente.<br>En el despacho de abogados Ferran González & Asociados estamos convencidos de que el trabajo constante genera sus resultados y que la satisfacción del cliente es nuestro principal objetivo."
   languages: ["Español", "Catalán", "Inglés"]
 abogados-rinber:
-  name: "Abogados rinber. abogados en malaga"
+  name: "Abogados Rinber"
   city: "Málaga"
   state: "Málaga"
   postal code: "29005"
