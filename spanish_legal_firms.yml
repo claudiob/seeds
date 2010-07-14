@@ -3,7 +3,7 @@ a-abogados-ador-s-l:
   city: "Sevilla"
   state: "Sevilla"
   postal code: "41018"
-  address: "Avda. San Francisco Javier 22, 1ª planta módulo 13"
+  address: "Avda. San Francisco Javier, 22 1ª planta módulo 13"
   phone: "954934980"
   email: ador@abogadosador.com
   logo: http://abogadosador.es/img/logo.jpg
@@ -42,7 +42,7 @@ abogada-idoia-ikardo-enparan:
   city: "Irun"
   state: "Guipúzcoa"
   postal code: "20304"
-  address: "Pza. istillaga 3, 115 lokala"
+  address: "Pza. Istillaga 3, 115 lokala"
   phone: "943102367"
   email: bidenova@idoiaikardo.com
   logo: http://www.idoiaikardo.com/images/bidenova.gif
@@ -55,7 +55,7 @@ abogada-m-dolores-baquero:
   city: "Sevilla"
   state: "Sevilla"
   postal code: "41018"
-  address: "Calle San ignacio 7, 1º E"
+  address: "Calle San ignacio, 7 1º E"
   phone: "954570917"
   email: despachoabogados@baquerogarces.com
   web: http://www.baquerogarces.com
@@ -68,7 +68,7 @@ abogada-noelia-rebon:
   city: "Barcelona"
   state: "Barcelona"
   postal code: "08008"
-  address: "Rambla catalunya 96, 2º 2ª"
+  address: "Rambla catalunya, 96 2º 2ª"
   phone: "932160828"
   email: noeliarebon@icab.es
   logo: http://www.noeliarebon.com/images/logo3.jpg
@@ -81,10 +81,10 @@ abogada-revuelta:
   city: "Barcelona"
   state: "Barcelona"
   postal code: "08005"
-  address: "Ávila 50 3º planta local 15"
+  address: "C/ Ávila, 50 3º 15"
   phone: "934869080"
   email: abogadarevuelta@viajuridicabcn.cat
-  web: http://www.thesauro.com/scripts/webs/index.asp?idItem=37885
+  web: http://www.thesauro.com/scripts/webs/?idItem=37885
   logo: http://www.thesauro.com/imagenes/logo37885.gif
   practice areas: ["Administrativo", "Civil", "Familia", "Médico-sanitario", "Mercantil", "Penal", "Reclamaciones de cantidad", "Tributario-fiscal", "Concursal", "Fusiones y adquisiciones"]
   description: "Licenciada en Derecho por la Universidad de Barcelona (2006).<br>Colegiada nº 31800 del Ilustre Colegio de Abogados de Barcelona.<br>Licenciada en Económicas (1987).<br>Colegiada nº 4489 del Colegio Oficial de Economistas de Cataluña.<br>Miembro de la Asociación Temas de Mujer.<br>Miembro del Registro de Economistas, Asesores y Fiscales (nº 5476)."
@@ -94,7 +94,7 @@ abogado-marta-ugarte-paul:
   city: "Toledo"
   state: "Toledo"
   postal code: "45007"
-  address: "C/ Río fuentebrada 11, entreplanta A"
+  address: "Calle del Río Fuentebrada, 11 Entreplanta A"
   phone: "925230397"
   email: ugarte.abogado@gmail.com
   logo: http://www.despachoabogacia.net/images/ugarte.gif
@@ -120,7 +120,7 @@ abogados-bufete-chamizo-galavis:
   city: "Sevilla"
   state: "Sevilla"
   postal code: "41008"
-  address: "R.da de capuchinos 35, esc. 2, 1º a"
+  address: "Ronda de capuchinos, 35 escala 2 1º A"
   phone: "609556983"
   email: mchamizog@telefonica.net
   web: http://www.bufetechamizoabogados.com
@@ -133,7 +133,7 @@ abogados-bufete-penalva:
   city: "Alicante"
   state: "Alicante"
   postal code: "03013"
-  address: "Avda. padre espla 1, 1º b"
+  address: "Avda. Padre espla 1, 1º b"
   phone: "965143765"
   web: http://bufetepenalva.com
   logo: http://bufetepenalva.com/logo_index.gif
@@ -144,7 +144,7 @@ abogados-canales-asociados:
   city: "Madrid"
   state: "Madrid"
   postal code: "28001"
-  address: "C/ Serrano nº 40, 4º Dcha."
+  address: "C/ Serrano, 40 4º Dcha."
   phone: "917819999"
   email: info@canalesyasociados.com
   web: http://www.canalesyasociados.com
@@ -157,7 +157,7 @@ abogados-carmen-garcia:
   city: "Madrid"
   state: "Madrid"
   postal code: "28009"
-  address: "Alcala, 78, 3º izda."
+  address: "C/ Alcalà, 78 3º izda."
   phone: "912200561"
   email: abogado@carmen-garcia.com
   web: http://www.carmen-garcia.com
@@ -170,7 +170,7 @@ abogados-casanova:
   city: "Barcelona"
   state: "Barcelona"
   postal code: "08009"
-  address: "Roger de lluria 84, principal"
+  address: "C/ Roger de Llúria 84"
   phone: "93 412 32 38"
   email: rcasanova@casanovabogados.com
   web: http://www.casanovabogados.com
@@ -183,7 +183,7 @@ abogados-europa:
   city: "Móstoles"
   state: "Madrid"
   postal code: "28931"
-  address: "Avda de la constitución 24, 2º 1ª"
+  address: "Av.da de la Constitución, 24 2º 1ª"
   phone: "916640635"
   email: despacho@abogadoseuropa.com
   logo: http://www.abogadoseuropa.com/europa_logo.gif
@@ -195,7 +195,7 @@ abogados-ferran-gonzalez-asociados:
   city: "Valencia"
   state: "Valencia"
   postal code: "46002"
-  address: "Roger de lluria 9, 8ª"
+  address: "C/ Roger de Lauria, 9 8ª"
   phone: "963344731"
   email: ferran@ferrangonzalez.com
   web: http://www.ferrangonzalez.com
@@ -208,8 +208,8 @@ abogados-rinber:
   city: "Málaga"
   state: "Málaga"
   postal code: "29005"
-  address: "Salvago 4, 1º. malaga capital"
-  phone: "952218126 - 627467042 - 627467043"
+  address: "C/ Salvago, 4 1º"
+  phone: "952218126"
   logo: http://www.rinberabogados.com/wp-content/themes/rinber-abogados/images/Rinber-Abogados.png
   web: http://www.rinberabogados.com
   practice areas: ["Accidentes de tráfico", "Civil", "Familia", "General", "Inmobiliario", "Marítimo", "Penal", "Seguros", "Concursal", "Herencias y testamentos"]
