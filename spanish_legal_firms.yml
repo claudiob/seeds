@@ -1,4 +1,4 @@
-a-abogados-ador-s-l:
+abogados-ador:
   name: "Abogados Ador S.L."
   city: "Sevilla"
   state: "Sevilla"
@@ -11,7 +11,7 @@ a-abogados-ador-s-l:
   practice areas: ["Accidentes de tráfico", "Administrativo", "Civil", "Contencioso-administrativo", "Extranjería y nacionalidad"]
   description: "Despacho multidisciplinar, con un completo equipo técnico y sobre todo humano, de profesionales especializados con el ánimo de prestar un servicio a todos lo ciudadanos por medio del consejo y la defensa de los derechos e intereses tanto a nivel público como privado."
   languages: ["Español", "Inglés"]
-a-c-a-juridic-gestio:
+a-c-a-gestion:
   name: "A.C.A. Gestión"
   city: "Barcelona"
   state: "Barcelona"
@@ -22,10 +22,10 @@ a-c-a-juridic-gestio:
   logo: http://www.acagestion.com/Images/logo.jpg
   web: http://www.acagestion.com
   practice areas: ["Extranjería y nacionalidad", "Inmobiliario", "Comunidad de propietarios"]
-  description: "A.C.A. Jurídic Gestió está formado por un equipo profesional de abogados colegiados en el Ilustre Colegio de Abogados de Catalunya (ICAB), gestores administrativos colegiados y administradores de fincas. Todos ellos con gran experiencia en el sector."
+  description: "Formado por un equipo profesional de abogados colegiados en el Ilustre Colegio de Abogados de Catalunya (ICAB), gestores administrativos colegiados y administradores de fincas. Todos ellos con gran experiencia en el sector."
   languages: ["Español", "Catalán", "Inglés"]
 abardia-abogados:
-  name: "Abardia abogados"
+  name: "Abardia Abogados"
   city: "Madrid"
   state: "Madrid"
   postal code: "28001"
@@ -38,7 +38,7 @@ abardia-abogados:
   description: "En Abardía abogados, le ofrecemos la posibilidad de contar con los profesionales mejor cualificados, para que pueda disfrutar de la tranquilidad y el respaldo profesional que en cada circunstancia necesite."
   languages: ["Español"]
 abogada-idoia-ikardo-enparan:
-  name: "Abogada Idoia Ikardo Enparan"
+  name: "Idoia Ikardo Enparan"
   city: "Irun"
   state: "Guipúzcoa"
   postal code: "20304"
@@ -50,8 +50,8 @@ abogada-idoia-ikardo-enparan:
   practice areas: ["Extranjería y nacionalidad", "Laboral", "Violencia de género"]
   description: "Cada individuo es fruto de sus experiencias, con sus problemáticas personales específicas. Por este motivo, Bidenova Gabinete Jurídico, con su trato humano, tiene el firme propósito de que sus usuarios se sientan cómodos y respaldados a lo largo de todo su encargo legal."
   languages: ["Español", "Euskera", "Inglés", "Francés"]
-abogada-m-dolores-baquero:
-  name: "Abogada Maria Dolores Baquero"
+abogada-dolores-baquero:
+  name: "Maria Dolores Baquero"
   city: "Sevilla"
   state: "Sevilla"
   postal code: "41018"
@@ -64,7 +64,7 @@ abogada-m-dolores-baquero:
   description: "Actualmente como miembro del SAOJI (Servicio Andaluz de Orientación Jurídica al Inmigrante) y de la AEAF (Asociación Española de Abogados de Familia) y trabajando desde 1991, el bufete Baquero Garcés ofrece sus servicios jurídicos en distintas áreas de trabajo como son el Derecho Civil, Penal, Administrativo, Extranjería, Patentes/Marcas, Escolarización y Derecho del seguro; teniendo siempre con el cliente un trato directo, sincero y personalizado ya que sabemos que mantenerle informado del trámite de sus asuntos de forma regular es para Vd. importante y para nosotros una obligación, habiéndolo conseguido durante estos años, dándole a cada proceso la mayor transparencia, dedicación y profesionalidad con la que contamos."
   languages: ["Español"]
 abogada-noelia-rebon:
-  name: "Abogada Noelia Rebon"
+  name: "Noelia Rebon"
   city: "Barcelona"
   state: "Barcelona"
   postal code: "08008"
@@ -74,7 +74,7 @@ abogada-noelia-rebon:
   logo: http://www.noeliarebon.com/images/logo3.jpg
   web: http://www.noeliarebon.com
   practice areas: ["Accidentes de tráfico", "Civil", "Familia", "Penal", "Herencias y testamentos"]
-  description: "FAMILIA > Demandas de incapacitación, tutela y curatela, sucesiones o herencias<br>MATRIMONIAL > Asesoramiento y gestión de todo tipo de asuntos relacionados con el área de familia: separaciones y divorcios (mutuo acuerdo o contencioso), parejas de hecho, capitulaciones matrimoniales, medidas provisionales, guarda y custodia de hijos, reclamaciones de pensiones de alimentos, filiaciones y adopciones<br>CIVIL > Reclamaciones de cantidad, procedimientos de desahucio, ejecuciones de sentencias..etc."
+  description: "Demandas de incapacitación, tutela y curatela, sucesiones o herencias. Asesoramiento y gestión de todo tipo de asuntos relacionados con el área de familia: separaciones y divorcios (mutuo acuerdo o contencioso), parejas de hecho, capitulaciones matrimoniales, medidas provisionales, guarda y custodia de hijos, reclamaciones de pensiones de alimentos, filiaciones y adopciones. Reclamaciones de cantidad, procedimientos de desahucio, ejecuciones de sentencias."
   languages: ["Español", "Catalán", "Inglés", "Italiano"]
 abogada-revuelta:
   name: "Abogada Revuelta"
@@ -87,7 +87,7 @@ abogada-revuelta:
   web: http://www.thesauro.com/scripts/webs/?idItem=37885
   logo: http://www.thesauro.com/imagenes/logo37885.gif
   practice areas: ["Administrativo", "Civil", "Familia", "Médico-sanitario", "Mercantil", "Penal", "Reclamaciones de cantidad", "Tributario-fiscal", "Concursal", "Fusiones y adquisiciones"]
-  description: "Licenciada en Derecho por la Universidad de Barcelona (2006).<br>Colegiada nº 31800 del Ilustre Colegio de Abogados de Barcelona.<br>Licenciada en Económicas (1987).<br>Colegiada nº 4489 del Colegio Oficial de Economistas de Cataluña.<br>Miembro de la Asociación Temas de Mujer.<br>Miembro del Registro de Economistas, Asesores y Fiscales (nº 5476)."
+  description: "Licenciada en Derecho por la Universidad de Barcelona (2006). Colegiada nº 31800 del Ilustre Colegio de Abogados de Barcelona. Licenciada en Económicas (1987). Colegiada nº 4489 del Colegio Oficial de Economistas de Cataluña. Miembro de la Asociación Temas de Mujer. Miembro del Registro de Economistas, Asesores y Fiscales (nº 5476)."
   languages: ["Español", "Catalán", "Inglés", "Francés", "Italiano"]
 abogado-marta-ugarte-paul:
   name: "Ugarte Abogado"
@@ -102,7 +102,7 @@ abogado-marta-ugarte-paul:
   practice areas: ["Administrativo", "Matrimonial-canónico", "Civil", "Laboral", "Penal", "Herencias y testamentos"]
   description: "Asesoramiento y defensa legal judicial y extrajudicial. Particulares y empresas."
   languages: ["Español", "Inglés", "Alemán"]
-abogados-advocats:
+abogados-sabadell:
   name: "Abogados Sabadell"
   city: "Sabadell"
   state: "Barcelona"
@@ -115,7 +115,7 @@ abogados-advocats:
   practice areas: ["Accidentes de tráfico", "Matrimonial-canónico", "Laboral", "Penal"]
   description: "Nuestro bufete de abogados con despacho central en Sabadell, ofrece servicios de asesoría y representación jurídica en distintos ámbitos además de especializarnos en divorcios y accidentes de tráfico. Conozca nuestro bufete así como sus áreas de especialización."
   languages: ["Español", "Catalán", "Alemán"]
-abogados-bufete-chamizo-galavis:
+bufete-chamizo-galavis:
   name: "Bufete Chamizo Galavis"
   city: "Sevilla"
   state: "Sevilla"
@@ -139,7 +139,7 @@ abogados-bufete-penalva:
   logo: http://bufetepenalva.com/logo_index.gif
   practice areas: ["Civil", "Laboral", "Mercantil"]
   description: "Nuestros servicios se prestarán con Lealtad, Confidencialidad, Profesionalidad, Dedicación"
-abogados-canales-asociados:
+canales-asociados:
   name: "Canales & asociados"
   city: "Madrid"
   state: "Madrid"
@@ -150,9 +150,9 @@ abogados-canales-asociados:
   web: http://www.canalesyasociados.com
   logo: http://www.canalesyasociados.com/imagenes/cabecera.jpg
   practice areas: ["Accidentes de tráfico", "General", "Procesal"]
-  description: "Canales & Asociados es un bufete dinámico y moderno, que cumple con todas las exigencias del mundo jurídico actual y que se ha desarrollado como una firma de servicios legales profesionales de prestigio repartidos entre su sede central de Madrid, y su delegación de Marbella."
+  description: "Bufete dinámico y moderno que cumple con todas las exigencias del mundo jurídico actual y que se ha desarrollado como una firma de servicios legales profesionales de prestigio repartidos entre su sede central de Madrid, y su delegación de Marbella."
   languages: ["Español", "Inglés", "Francés"]
-abogados-carmen-garcia:
+carmen-garcia:
   name: "Abogados Carmen García"
   city: "Madrid"
   state: "Madrid"
@@ -163,9 +163,9 @@ abogados-carmen-garcia:
   web: http://www.carmen-garcia.com
   logo: http://www.carmen-garcia.com/sites/all/files/imagecache/nodo/Picture_072b_0.jpg
   practice areas: ["Accidentes de tráfico", "Matrimonial-canónico", "Extranjería y nacionalidad", "Laboral", "Penal", "Recurso de multas"]
-  description: "ABOGADOS CARMEN GARCIA, es un despacho de abogados multidisciplinar con sede en Madrid, fundado en 1995 por  Dª CARMEN GARCIA GARRIDO, abogada del Ilustre Colegio de Abogados de Madrid y de Alcalá de Henares."
+  description: "Despacho de abogados multidisciplinar con sede en Madrid, fundado en 1995 por  Dª Carmen García Garrido, abogada del Ilustre Colegio de Abogados de Madrid y de Alcalá de Henares."
   languages: ["Español", "Francés", "Italiano"]
-abogados-casanova:
+casanova:
   name: "Abogados Casanova"
   city: "Barcelona"
   state: "Barcelona"
@@ -174,12 +174,11 @@ abogados-casanova:
   phone: "93 412 32 38"
   email: rcasanova@casanovabogados.com
   web: http://www.casanovabogados.com
-  logo: http://www.casanovabogados.com/images/logo.jpg
   practice areas: ["Herencias y testamentos"]
-  description: "Casanova Abogados se funda en Barcelona en 1997 con la unión de un grupo de Abogados especializados en herencias y sucesiones con el objetivo de constituirse como firma líder en prestar servicios jurídicos que cubran todas las necesidades que una persona o familia puedan tener tras la defunción. Más de trescientas herencias gestionadas de forma excelente avalan nuestra experiencia en este campo."
+  description: "Fundado en Barcelona en 1997 con la unión de un grupo de Abogados especializados en herencias y sucesiones con el objetivo de constituirse como firma líder en prestar servicios jurídicos que cubran todas las necesidades que una persona o familia puedan tener tras la defunción. Más de trescientas herencias gestionadas de forma excelente avalan nuestra experiencia en este campo."
   languages: ["Español", "Catalán", "Inglés", "Italiano"]
-abogados-europa:
-  name: "Abogados europa"
+europa:
+  name: "Abogados Europa"
   city: "Móstoles"
   state: "Madrid"
   postal code: "28931"
@@ -190,8 +189,8 @@ abogados-europa:
   web: http://www.abogadoseuropa.com
   practice areas: ["General"]
   description: "El funcionamiento de nuestra firma esta orientado por y para nuestros clientes nuestros profesionales tienen clara vocación de lograr una total satisfacción del cliente, ofreciendo un servicio integral y eficiente que ayude a conseguir sus objetivos."
-abogados-ferran-gonzalez-asociados:
-  name: "Ferran abogados & asociados"
+ferran-gonzalez-asociados:
+  name: "Ferran Abogados & Asociados"
   city: "Valencia"
   state: "Valencia"
   postal code: "46002"
@@ -201,9 +200,22 @@ abogados-ferran-gonzalez-asociados:
   web: http://www.ferrangonzalez.com
   logo: http://www.ferrangonzalez.com/logo.jpg
   practice areas: ["Administrativo", "Civil", "Familia", "General", "Inmobiliario", "Penal", "Herencias y testamentos"]
-  description: "El despacho de abogados Ferran González & Asociados es una firma jurídica valenciana que tiene por objetivo la defensa de sus intereses, desde una perspectiva práctica, ágil y contundente.<br>En el despacho de abogados Ferran González & Asociados estamos convencidos de que el trabajo constante genera sus resultados y que la satisfacción del cliente es nuestro principal objetivo."
+  description: "Firma jurídica valenciana que tiene por objetivo la defensa de sus intereses, desde una perspectiva práctica, ágil y contundente.<br>En el despacho de abogados Ferran González & Asociados estamos convencidos de que el trabajo constante genera sus resultados y que la satisfacción del cliente es nuestro principal objetivo."
   languages: ["Español", "Catalán", "Inglés"]
-abogados-rinber:
+marben-abogados:
+  name: "Marben Abogados"
+  city: "Barcelona"
+  state: "Barcelona"
+  postal code: "08010"
+  address: "C/ Bruc, 7 principal 1ª"
+  phone: "935313034"
+  email: info@marbenabogados.com
+  web: http://www.marbenabogados.com
+  logo: http://www.marbenabogados.com/images/logoBlau.jpg
+  practice areas: ["Accidentes de tráfico", "Laboral", "Reclamaciones de cantidad"]
+  description: "Bufete pluridisciplinar formado por especialistas en las distintas áreas del Derecho, asociados en régimen de colaboración. Nuestros servicios van dirigidos tanto a clientes particulares como a empresas ofreciendo desde asesoramiento hasta gestión de procedimientos, cuando así proceda. Plenamente adaptados a las actuales tendencias, siempre buscamos ofrecer un servicio con el mayor nivel de excelencia posible para nuestros clientes. Para que ello sea posible hemos configurado nuestro Despacho como un servicio integral, mediante un asesoramiento que busca atender todos y cada uno de los ámbitos del derecho, y de este modo, poder abarcar tanto a entidades y empresas, como a particulares que tienen que afrontar los aspectos jurídicos de su tarea diaria desde las diversas materias del derecho (civil, laboral, penal, administrativo, fiscal)."
+  languages: ["Español", "Catalán", "Inglés", "Italiano"]
+rinber:
   name: "Abogados Rinber"
   city: "Málaga"
   state: "Málaga"
@@ -213,5 +225,5 @@ abogados-rinber:
   logo: http://www.rinberabogados.com/wp-content/themes/rinber-abogados/images/Rinber-Abogados.png
   web: http://www.rinberabogados.com
   practice areas: ["Accidentes de tráfico", "Civil", "Familia", "General", "Inmobiliario", "Marítimo", "Penal", "Seguros", "Concursal", "Herencias y testamentos"]
-  description: "RINBER ABOGADOS Malaga está consolidado como uno de los más prestigiosos bufetes de abogados de España, por haber seguido siempre sus principios esenciales: Profundidad en el estudio del derecho, calidad en el trabajo profesional y en la relación con los clientes; innovación, honestidad, decencia y respeto. En suma, la búsqueda de la excelencia en todos los niveles de nuestra actividad."
+  description: "Consolidado como uno de los más prestigiosos bufetes de abogados de España, por haber seguido siempre sus principios esenciales: Profundidad en el estudio del derecho, calidad en el trabajo profesional y en la relación con los clientes; innovación, honestidad, decencia y respeto. En suma, la búsqueda de la excelencia en todos los niveles de nuestra actividad."
   languages: ["Español", "Inglés"]
